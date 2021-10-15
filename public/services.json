@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Replace Tire",
+        "id": 1,
+        "price": 2000,
+        "time": 2,
+        "img": "https://i.ibb.co/Z2kqMvZ/img1.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+        "name": "Engine Replace",
+        "id": 2,
+        "price": 12000,
+        "time": 12,
+        "img": "https://i.ibb.co/fNngrJq/img2.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+        "name": "Replace Engine Oil",
+        "id": 3,
+        "price": 1000,
+        "time": 1,
+        "img": "https://i.ibb.co/F3hv0jf/img3.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+        "name": "Repair Glass",
+        "id": 4,
+        "price": 2000,
+        "time": 2,
+        "img": "https://i.ibb.co/q1mFbPf/img4.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+        "name": "Coloring",
+        "id": 5,
+        "price": 2000,
+        "time": 6,
+        "img": "https://i.ibb.co/Ln8BD5b/img5.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+    },
+    {
+        "name": "Change The Door",
+        "id": 6,
+        "price": 4000,
+        "time": 5,
+        "img": "https://i.ibb.co/HXTtQcB/img6.jpg",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever"
+    }
+]
